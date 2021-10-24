@@ -1,20 +1,20 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
+        <img src="<a href="https://ibb.co/JKzKHF2"><img src="https://i.ibb.co/R9C9c4P/actor-vijay-offl-20211023-0001.jpg" alt="actor-vijay-offl-20211023-0001" border="0"></a><br /><a target='_blank' href='https://the-crosswordsolver.com/prefix-for-both-4-letters'>
 </p>
 
 <div align="center">
 
-## [![CLAW-RomEo](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+CLAW-RomEo+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![CLAW-RomEo](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+CLAW-RomEo+WA+Bot+repo;Created+by+CLAW+Romeo;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CLAW ROMEO" src="https://img.shields.io/badge/CLAW ROMEO-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ROMEO-77"><img title="Author" src="https://img.shields.io/badge/Author-ROMEO-77/CLAW-RomEo?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ROMEO-77"><img title="ROMEO" src="https://img.shields.io/badge/Author-ROMEO-77/CLAW-RomEo?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
