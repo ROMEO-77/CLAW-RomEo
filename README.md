@@ -68,7 +68,7 @@ Click CLAW-RomEo logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@CLAW-RomEocreator/CLAW-RomEo-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@AlbinSiju/Claw-romeo#index.js)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ROMEO-77/CLAW-RomEo.git)
      </div>
